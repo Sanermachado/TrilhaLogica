@@ -5,7 +5,7 @@ public class VendaImovel {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Digite o nome do vendedor: ");
+        System.out.print("Digite o nome do imovel: ");
         String nomeVendedor = scanner.nextLine();
 
         System.out.print("Digite o valor do imóvel: ");
